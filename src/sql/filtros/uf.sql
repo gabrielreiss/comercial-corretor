@@ -1,0 +1,6 @@
+SELECT 
+    DISTINCT UF AS coluna
+
+FROM empresas AS T1
+ORDER BY UF ASC
+;

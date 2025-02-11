@@ -1,0 +1,5 @@
+SELECT 
+    DISTINCT SUSEP AS SUSEP_DISTINTOS,
+    *
+FROM empresas
+;
