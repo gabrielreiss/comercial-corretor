@@ -52,7 +52,7 @@ def load_data_cpf():
 if __name__ == "__main__":
     st.title("Ferramenta para auxiliar na criação estratégias de Vendas em Seguros, Previdência e Planos de Saúde")
     st.write("Criado por: Gabriel Reiss de Castro MIBA 4120 https://www.linkedin.com/in/gabrielreissdecastro/")
-    st.write("Os dados foram obtidos com a base dos corretores da SUSEP, com demais cruzamento em outras bases de dados para consolidar os dados, como a base dos CNPJ da Receita Federal e informações geográficas do IBGE")
+    st.write("Os dados são todos públicos e foram obtidos com a base dos corretores da SUSEP, com demais cruzamento em outras bases de dados para consolidar os dados, como a base dos CNPJ da Receita Federal e informações geográficas do IBGE")
     
     #Carrega Conexão
     conn = load_db()
