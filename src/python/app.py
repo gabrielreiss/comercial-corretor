@@ -202,7 +202,7 @@ if __name__ == "__main__":
     st.dataframe(cpf)
     
     st.markdown("""
-                # Minhas considerações sobre as quetões de estratégias comerciais com corretores:
+                # Minhas considerações sobre as questões de estratégias comerciais com corretores:
                 
                 Sabemos que os custos de aquisição de novos clientes podem a ser até 21 vezes mais caro que a renovação de clientes. Podemos fazer um paralelo com o mercado de seguros de Portugal, o estudo de DA SILVA (2018) mostra que o mercado está competitivo e as seguradoras estão focadas em entender e atender às necessidades dos clientes. Isso implica que reter os clientes existentes (renovação) é crucial, pois a competição por novos clientes é acirrada e, portanto, mais custosa.
 
