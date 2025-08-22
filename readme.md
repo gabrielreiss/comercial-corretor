@@ -1,3 +1,16 @@
+# How to use
+
+Instala uma VM do python com as dependências no requirements.txt
+Dropa o banco feito em sqlite
+Roda o atualiza.bat
+Vá dormir pq demora para rodar
+Torça para que dê certo
+
+#### Para rodar o Dash:
+```
+streamlit run src\python\app.py
+```
+
 # Projeto para Estratégia de Vendas em Seguros, Previdência e Planos de Saúde
 
 ### Base de dados
